@@ -7,6 +7,7 @@ Add a customized message to any or all of your blog posts the easy way, instead 
 == Screenshots ==
 
 1. This is the plugin settings page
+![plugin settings](https://github.com/poplir/customized-message/blob/main/assets/screenshot-1.png)
 2. Customize and save
 3. Add "[cmsg]" shortcode to the post where you want this message to appear
 4. This is how it looks in the front-end
