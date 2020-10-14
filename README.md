@@ -9,8 +9,11 @@ Add a customized message to any or all of your blog posts the easy way, instead 
 1. This is the plugin settings page
 ![plugin settings](https://github.com/poplir/customized-message/blob/main/assets/screenshot-1.png)
 2. Customize and save
+![customize and save](https://github.com/poplir/customized-message/blob/main/assets/screenshot-2.png)
 3. Add "[cmsg]" shortcode to the post where you want this message to appear
+![shortcode](https://github.com/poplir/customized-message/blob/main/assets/screenshot-3.png)
 4. This is how it looks in the front-end
+![front-end](https://github.com/poplir/customized-message/blob/main/assets/screenshot-4.png)
 
 == Installation ==
 
